@@ -115,24 +115,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Theodore Bunny",
-"given": "Theodore",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Bunny"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "unknown Bunny",
 "given": "unknown",
 "nick": "",
@@ -241,42 +223,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Fred Fernando Pussycat",
-"given": "Fred Fernando",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Pussycat"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "John Pussycat",
-"given": "John",
-"nick": "jack",
-"note": "",
-"suffix": "",
-"surnames": [
-"Pussycat"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Othero Pussycat",
 "given": "Othero",
 "nick": "",
@@ -295,9 +241,9 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Tallulah Pussycat",
-"given": "Tallulah",
-"nick": "",
+"full": "Tom Pussycat",
+"given": "Tom",
+"nick": "jack",
 "note": "",
 "suffix": "",
 "surnames": [

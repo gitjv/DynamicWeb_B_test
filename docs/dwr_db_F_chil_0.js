@@ -27,13 +27,6 @@ F_chil_0 = [
 },
 {
 "cita": [],
-"index": 6,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-},
-{
-"cita": [],
 "index": 1,
 "note": "",
 "to_father": "Birth",
@@ -43,30 +36,7 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 16,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 13,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-},
-{
-"cita": [],
-"index": 10,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-},
-{
-"cita": [],
-"index": 15,
+"index": 12,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Stepchild"
@@ -75,14 +45,14 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 20,
+"index": 17,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
 },
 {
 "cita": [],
-"index": 22,
+"index": 19,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -91,14 +61,14 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 21,
+"index": 18,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
 },
 {
 "cita": [],
-"index": 18,
+"index": 15,
 "note": "",
 "to_father": "Unknown",
 "to_mother": "Unknown"
@@ -107,7 +77,7 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 21,
+"index": 18,
 "note": "",
 "to_father": "Sponsored",
 "to_mother": "Adopted"
@@ -116,7 +86,7 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 8,
+"index": 7,
 "note": "",
 "to_father": "Foster",
 "to_mother": "Foster"

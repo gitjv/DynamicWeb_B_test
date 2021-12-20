@@ -2,7 +2,6 @@
 
 P_name_0 = [
 "Australia",
-"Broken Hill, NSW",
 "Cabbage field",
 "Cronulla, New South Wales, Australia",
 "East Burrow",
@@ -10,7 +9,7 @@ P_name_0 = [
 "North Meadow",
 "Queensland, Australia",
 "South Burrow",
-"Sydney, New South Wales, Australia",
+"The other farm",
 "the town",
 "the village",
 "Townsville, Queensland, Australia"

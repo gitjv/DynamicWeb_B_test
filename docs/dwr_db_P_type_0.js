@@ -2,7 +2,6 @@
 
 P_type_0 = [
 "Country",
-"City",
 "Unknown",
 "Town",
 "Unknown",
@@ -10,7 +9,7 @@ P_type_0 = [
 "Farm",
 "Unknown",
 "Unknown",
-"City",
+"Unknown",
 "Unknown",
 "Village",
 "Town"

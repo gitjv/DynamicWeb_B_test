@@ -3,7 +3,6 @@
 F_type_0 = [
 "Unknown",
 "Unknown",
-"Unknown",
 "Married",
 "Unknown",
 "Married",

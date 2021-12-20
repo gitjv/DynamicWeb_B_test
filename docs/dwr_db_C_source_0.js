@@ -1,11 +1,10 @@
 // This file is generated
 
 C_source_0 = [
-"2",
+"1",
 "0",
-"1",
-"1",
-"1",
-"1"
+"0",
+"0",
+"0"
 ]
 Dwr.ScriptLoaded('dwr_db_C_source_0.js');

@@ -40,7 +40,6 @@ F_events_0 = [
 "who_in_family": ""
 }
 ],
-[],
 [
 {
 "age": "",
@@ -52,10 +51,10 @@ F_events_0 = [
 "in_lifespan": null,
 "media": [],
 "part_family": [
-3
+2
 ],
 "part_person": [],
-"place": 3,
+"place": 2,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThey set off from Cronulla beach and were married in a pea-green boat\n</p>\n</div>\n</div>",
 "type": "Marriage",
 "who_in_family": ""
@@ -73,11 +72,11 @@ F_events_0 = [
 "in_lifespan": null,
 "media": [],
 "part_family": [
-5
+4
 ],
 "part_person": [
 [
-10,
+9,
 "Witness"
 ]
 ],
@@ -98,11 +97,11 @@ F_events_0 = [
 "in_lifespan": null,
 "media": [],
 "part_family": [
-6
+5
 ],
 "part_person": [
 [
-9,
+8,
 "Witness"
 ]
 ],

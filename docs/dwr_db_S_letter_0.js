@@ -1,7 +1,6 @@
 // This file is generated
 
 S_letter_0 = [
-"C",
 "G",
 "P"
 ]

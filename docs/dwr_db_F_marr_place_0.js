@@ -3,7 +3,6 @@
 F_marr_place_0 = [
 "",
 "",
-"",
 "Cronulla, New South Wales, Australia",
 "",
 "",

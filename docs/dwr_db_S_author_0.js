@@ -1,7 +1,6 @@
 // This file is generated
 
 S_author_0 = [
-"",
 "Marc Wick",
 ""
 ]

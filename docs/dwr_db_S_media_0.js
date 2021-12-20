@@ -1,25 +1,11 @@
 // This file is generated
 
 S_media_0 = [
-[
-{
-"cita": [],
-"m_idx": 0,
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/4/e7a2320b3c9538db65585b32848.png"
-}
-],
 [],
 [
 {
 "cita": [],
-"m_idx": 1,
+"m_idx": 0,
 "note": "",
 "rect": [
 0,

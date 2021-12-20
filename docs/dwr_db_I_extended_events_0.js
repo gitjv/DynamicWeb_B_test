@@ -28,7 +28,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "mother",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of parent",
 "who_in_family": 2
@@ -54,10 +54,37 @@ I_extended_events_0 = [
 "birth mother"
 ]
 ],
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
+},
+{
+"age": "0 mths ",
+"cita": [],
+"date": "2019",
+"date_sdn": 2458485,
+"descr": "",
+"gid": "E0038",
+"in_lifespan": true,
+"kind": "sibling",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+1,
+"Primary"
+],
+[
+6,
+"birth father"
+]
+],
+"pc_reln": "non-birth sister",
+"place": 8,
+"text": "",
+"type": "Birth of sibling",
+"who_in_family": 1
 },
 {
 "age": "0 mths ",
@@ -72,7 +99,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -80,38 +107,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 18
-},
-{
-"age": "4 mths ",
-"cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
-"descr": "",
-"gid": "E0034",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"birth mother"
-],
-[
-6,
-"Primary"
-],
-[
-7,
-"birth father"
-]
-],
-"pc_reln": "half-brother",
-"place": 4,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 6
+"who_in_family": 15
 },
 {
 "age": "6 mths ",
@@ -130,19 +126,19 @@ I_extended_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "half-brother",
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "7 mths ",
@@ -165,12 +161,12 @@ I_extended_events_0 = [
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
 "pc_reln": "half-sister",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of sibling",
 "who_in_family": 5
@@ -188,15 +184,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "half-brother",
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death of sibling",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "2 yrs ",
@@ -234,7 +230,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -242,24 +238,24 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of sibling",
-"who_in_family": 18
+"who_in_family": 15
 }
 ],
 [
 {
-"age": "",
+"age": "1 yrs before birth",
 "cita": [],
 "date": "2017",
 "date_sdn": 2457755,
 "descr": "",
 "gid": "E0033",
-"in_lifespan": null,
+"in_lifespan": false,
 "kind": "parent",
 "media": [],
 "part_family": [],
 "part_person": [
 [
-7,
+6,
 "Primary"
 ]
 ],
@@ -267,16 +263,16 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of parent",
-"who_in_family": 7
+"who_in_family": 6
 },
 {
-"age": "",
+"age": "11 mths before birth",
 "cita": [],
 "date": "2018",
 "date_sdn": 2458120,
 "descr": "",
 "gid": "E0019",
-"in_lifespan": null,
+"in_lifespan": false,
 "kind": "parent",
 "media": [],
 "part_family": [],
@@ -295,19 +291,45 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "adopting mother",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of parent",
 "who_in_family": 2
 },
 {
-"age": "",
+"age": "0 mths ",
+"cita": [],
+"date": "2019",
+"date_sdn": 2458485,
+"descr": "",
+"gid": "E0038",
+"in_lifespan": true,
+"kind": "",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+1,
+"Primary"
+],
+[
+6,
+"birth father"
+]
+],
+"place": 8,
+"text": "",
+"type": "Birth",
+"who_in_family": ""
+},
+{
+"age": "0 mths ",
 "cita": [],
 "date": "about 2019\u201101\u201100",
 "date_sdn": 2458485,
 "descr": "birth of bella",
 "gid": "E0021",
-"in_lifespan": null,
+"in_lifespan": true,
 "kind": "sibling",
 "media": [],
 "part_family": [],
@@ -322,25 +344,25 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "non-birth sister",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of sibling",
 "who_in_family": 0
 },
 {
-"age": "",
+"age": "0 mths ",
 "cita": [],
 "date": "2019\u201101\u201100",
 "date_sdn": 2458485,
 "descr": "",
 "gid": "E0023",
-"in_lifespan": null,
+"in_lifespan": true,
 "kind": "sibling",
 "media": [],
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -348,47 +370,16 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 18
+"who_in_family": 15
 },
 {
-"age": "",
-"cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
-"descr": "",
-"gid": "E0034",
-"in_lifespan": null,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"birth mother"
-],
-[
-6,
-"Primary"
-],
-[
-7,
-"birth father"
-]
-],
-"pc_reln": "half-brother",
-"place": 4,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 6
-},
-{
-"age": "",
+"age": "6 mths ",
 "cita": [],
 "date": "2019\u201108\u201100",
 "date_sdn": 2458697,
 "descr": "",
 "gid": "E0020",
-"in_lifespan": null,
+"in_lifespan": true,
 "kind": "sibling",
 "media": [],
 "part_family": [],
@@ -398,28 +389,28 @@ I_extended_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "non-birth brother",
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
-"age": "",
+"age": "7 mths ",
 "cita": [],
 "date": "2019\u201109\u201101",
 "date_sdn": 2458728,
 "descr": "",
 "gid": "E0014",
-"in_lifespan": null,
+"in_lifespan": true,
 "kind": "sibling",
 "media": [],
 "part_family": [],
@@ -433,47 +424,47 @@ I_extended_events_0 = [
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
 "pc_reln": "half-sister",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of sibling",
 "who_in_family": 5
 },
 {
-"age": "",
+"age": "8 mths ",
 "cita": [],
 "date": "2019\u201110\u201100",
 "date_sdn": 2458758,
 "descr": "",
 "gid": "E0022",
-"in_lifespan": null,
+"in_lifespan": true,
 "kind": "sibling",
 "media": [],
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "non-birth brother",
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death of sibling",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
-"age": "",
+"age": "2 yrs ",
 "cita": [],
 "date": "2021\u201106\u201100",
 "date_sdn": 2459367,
 "descr": "",
 "gid": "E0028",
-"in_lifespan": null,
+"in_lifespan": true,
 "kind": "parent",
 "media": [],
 "part_family": [],
@@ -490,19 +481,19 @@ I_extended_events_0 = [
 "who_in_family": 2
 },
 {
-"age": "",
+"age": "3 yrs ",
 "cita": [],
 "date": "2022",
 "date_sdn": 2459581,
 "descr": "",
 "gid": "E0029",
-"in_lifespan": null,
+"in_lifespan": true,
 "kind": "sibling",
 "media": [],
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -510,7 +501,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of sibling",
-"who_in_family": 18
+"who_in_family": 15
 }
 ],
 [
@@ -527,15 +518,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -543,7 +534,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of spouse",
-"who_in_family": 20
+"who_in_family": 17
 },
 {
 "age": "3 yrs before birth",
@@ -563,7 +554,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "father",
-"place": -1,
+"place": 8,
 "text": "",
 "type": "Birth of parent",
 "who_in_family": 4
@@ -604,7 +595,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-7,
+6,
 "Primary"
 ]
 ],
@@ -612,7 +603,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of spouse",
-"who_in_family": 7
+"who_in_family": 6
 },
 {
 "age": "0 mths ",
@@ -639,7 +630,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
@@ -686,10 +677,37 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "daughter",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of child",
 "who_in_family": 0
+},
+{
+"age": "11 mths ",
+"cita": [],
+"date": "2019",
+"date_sdn": 2458485,
+"descr": "",
+"gid": "E0038",
+"in_lifespan": true,
+"kind": "child",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+1,
+"Primary"
+],
+[
+6,
+"birth father"
+]
+],
+"pc_reln": "adopted daughter",
+"place": 8,
+"text": "",
+"type": "Birth of child",
+"who_in_family": 1
 },
 {
 "age": "11 mths ",
@@ -704,7 +722,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -712,7 +730,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 18
+"who_in_family": 15
 },
 {
 "age": "1 yrs ",
@@ -737,37 +755,6 @@ I_extended_events_0 = [
 {
 "age": "1 yrs ",
 "cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
-"descr": "",
-"gid": "E0034",
-"in_lifespan": true,
-"kind": "child",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"birth mother"
-],
-[
-6,
-"Primary"
-],
-[
-7,
-"birth father"
-]
-],
-"pc_reln": "son",
-"place": 4,
-"text": "",
-"type": "Birth of child",
-"who_in_family": 6
-},
-{
-"age": "1 yrs ",
-"cita": [],
 "date": "2019\u201108\u201100",
 "date_sdn": 2458697,
 "descr": "",
@@ -782,19 +769,19 @@ I_extended_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "son",
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "1 yrs ",
@@ -817,12 +804,12 @@ I_extended_events_0 = [
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
 "pc_reln": "daughter",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of child",
 "who_in_family": 5
@@ -840,15 +827,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "son",
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death of child",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "1 yrs ",
@@ -861,11 +848,11 @@ I_extended_events_0 = [
 "kind": "",
 "media": [],
 "part_family": [
-5
+4
 ],
 "part_person": [
 [
-10,
+9,
 "Witness"
 ]
 ],
@@ -933,7 +920,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -941,7 +928,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of child",
-"who_in_family": 18
+"who_in_family": 15
 }
 ],
 [
@@ -963,7 +950,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "partner",
-"place": -1,
+"place": 8,
 "text": "",
 "type": "Birth of spouse",
 "who_in_family": 4
@@ -1016,7 +1003,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "daughter",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of child",
 "who_in_family": 2
@@ -1086,7 +1073,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"place": -1,
+"place": 8,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
@@ -1140,7 +1127,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "daughter",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of child",
 "who_in_family": 2
@@ -1205,7 +1192,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-7,
+6,
 "Primary"
 ]
 ],
@@ -1213,7 +1200,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of parent",
-"who_in_family": 7
+"who_in_family": 6
 },
 {
 "age": "1 yrs before birth",
@@ -1241,10 +1228,37 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "mother",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of parent",
 "who_in_family": 2
+},
+{
+"age": "7 mths before birth",
+"cita": [],
+"date": "2019",
+"date_sdn": 2458485,
+"descr": "",
+"gid": "E0038",
+"in_lifespan": false,
+"kind": "sibling",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+1,
+"Primary"
+],
+[
+6,
+"birth father"
+]
+],
+"pc_reln": "half-sister",
+"place": 8,
+"text": "",
+"type": "Birth of sibling",
+"who_in_family": 1
 },
 {
 "age": "7 mths before birth",
@@ -1268,7 +1282,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "half-sister",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of sibling",
 "who_in_family": 0
@@ -1286,7 +1300,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -1294,38 +1308,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 18
-},
-{
-"age": "3 mths before birth",
-"cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
-"descr": "",
-"gid": "E0034",
-"in_lifespan": false,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"birth mother"
-],
-[
-6,
-"Primary"
-],
-[
-7,
-"birth father"
-]
-],
-"pc_reln": "brother",
-"place": 4,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 6
+"who_in_family": 15
 },
 {
 "age": "1 mths before birth",
@@ -1344,19 +1327,19 @@ I_extended_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "half-brother",
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "0 mths ",
@@ -1379,11 +1362,11 @@ I_extended_events_0 = [
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
@@ -1401,15 +1384,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "half-brother",
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death of sibling",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "1 yrs ",
@@ -1447,7 +1430,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -1455,291 +1438,24 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of sibling",
-"who_in_family": 18
+"who_in_family": 15
 }
 ],
 [
 {
-"age": "2 yrs before birth",
+"age": "0 mths ",
 "cita": [],
 "date": "2017",
 "date_sdn": 2457755,
 "descr": "",
 "gid": "E0033",
-"in_lifespan": false,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-7,
-"Primary"
-]
-],
-"pc_reln": "father",
-"place": -1,
-"text": "",
-"type": "Birth of parent",
-"who_in_family": 7
-},
-{
-"age": "1 yrs before birth",
-"cita": [],
-"date": "2018",
-"date_sdn": 2458120,
-"descr": "",
-"gid": "E0019",
-"in_lifespan": false,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"Primary"
-],
-[
-3,
-"birth mother"
-],
-[
-4,
-"birth father"
-]
-],
-"pc_reln": "mother",
-"place": 6,
-"text": "",
-"type": "Birth of parent",
-"who_in_family": 2
-},
-{
-"age": "4 mths before birth",
-"cita": [],
-"date": "about 2019\u201101\u201100",
-"date_sdn": 2458485,
-"descr": "birth of bella",
-"gid": "E0021",
-"in_lifespan": false,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-0,
-"Primary"
-],
-[
-2,
-"birth mother"
-]
-],
-"pc_reln": "half-sister",
-"place": 4,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 0
-},
-{
-"age": "4 mths before birth",
-"cita": [],
-"date": "2019\u201101\u201100",
-"date_sdn": 2458485,
-"descr": "",
-"gid": "E0023",
-"in_lifespan": false,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-18,
-"Primary"
-]
-],
-"pc_reln": "non-birth brother",
-"place": -1,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 18
-},
-{
-"age": "0 mths ",
-"cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
-"descr": "",
-"gid": "E0034",
 "in_lifespan": true,
 "kind": "",
 "media": [],
 "part_family": [],
 "part_person": [
-[
-2,
-"birth mother"
-],
 [
 6,
-"Primary"
-],
-[
-7,
-"birth father"
-]
-],
-"place": 4,
-"text": "",
-"type": "Birth",
-"who_in_family": ""
-},
-{
-"age": "2 mths ",
-"cita": [],
-"date": "2019\u201108\u201100",
-"date_sdn": 2458697,
-"descr": "",
-"gid": "E0020",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"birth mother"
-],
-[
-20,
-"birth father"
-],
-[
-21,
-"Primary"
-]
-],
-"pc_reln": "half-brother",
-"place": 8,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 21
-},
-{
-"age": "3 mths ",
-"cita": [],
-"date": "2019\u201109\u201101",
-"date_sdn": 2458728,
-"descr": "",
-"gid": "E0014",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"birth mother"
-],
-[
-5,
-"Primary"
-],
-[
-7,
-"birth father"
-]
-],
-"pc_reln": "sister",
-"place": 4,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 5
-},
-{
-"age": "4 mths ",
-"cita": [],
-"date": "2019\u201110\u201100",
-"date_sdn": 2458758,
-"descr": "",
-"gid": "E0022",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-21,
-"Primary"
-]
-],
-"pc_reln": "half-brother",
-"place": 2,
-"text": "",
-"type": "Death of sibling",
-"who_in_family": 21
-},
-{
-"age": "2 yrs ",
-"cita": [],
-"date": "2021\u201106\u201100",
-"date_sdn": 2459367,
-"descr": "",
-"gid": "E0028",
-"in_lifespan": true,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"Primary"
-]
-],
-"pc_reln": "mother",
-"place": -1,
-"text": "",
-"type": "Death of parent",
-"who_in_family": 2
-},
-{
-"age": "2 yrs ",
-"cita": [],
-"date": "2022",
-"date_sdn": 2459581,
-"descr": "",
-"gid": "E0029",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-18,
-"Primary"
-]
-],
-"pc_reln": "non-birth brother",
-"place": -1,
-"text": "",
-"type": "Death of sibling",
-"who_in_family": 18
-}
-],
-[
-{
-"age": "0 mths ",
-"cita": [],
-"date": "2017",
-"date_sdn": 2457755,
-"descr": "",
-"gid": "E0033",
-"in_lifespan": true,
-"kind": "",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-7,
 "Primary"
 ]
 ],
@@ -1774,7 +1490,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "former partner",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of spouse",
 "who_in_family": 2
@@ -1800,6 +1516,33 @@ I_extended_events_0 = [
 "who_in_family": ""
 },
 {
+"age": "1 yrs ",
+"cita": [],
+"date": "2019",
+"date_sdn": 2458485,
+"descr": "",
+"gid": "E0038",
+"in_lifespan": true,
+"kind": "child",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+1,
+"Primary"
+],
+[
+6,
+"birth father"
+]
+],
+"pc_reln": "daughter",
+"place": 8,
+"text": "",
+"type": "Birth of child",
+"who_in_family": 1
+},
+{
 "age": "2 yrs ",
 "cita": [],
 "date": "2019\u201106\u201100",
@@ -1822,37 +1565,6 @@ I_extended_events_0 = [
 {
 "age": "2 yrs ",
 "cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
-"descr": "",
-"gid": "E0034",
-"in_lifespan": true,
-"kind": "child",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"birth mother"
-],
-[
-6,
-"Primary"
-],
-[
-7,
-"birth father"
-]
-],
-"pc_reln": "son",
-"place": 4,
-"text": "",
-"type": "Birth of child",
-"who_in_family": 6
-},
-{
-"age": "2 yrs ",
-"cita": [],
 "date": "2019\u201109\u201101",
 "date_sdn": 2458728,
 "descr": "",
@@ -1871,12 +1583,12 @@ I_extended_events_0 = [
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
 "pc_reln": "daughter",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of child",
 "who_in_family": 5
@@ -1919,7 +1631,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-8,
+7,
 "Primary"
 ]
 ],
@@ -1943,7 +1655,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-19,
+16,
 "Primary"
 ]
 ],
@@ -1951,7 +1663,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNobody knows when Old Man Rabbit was born; it seems like he has been on the farm forever.\n</p>\n</div>\n</div>",
 "type": "Birth of spouse",
-"who_in_family": 19
+"who_in_family": 16
 },
 {
 "age": "0 mths ",
@@ -1966,7 +1678,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "Primary"
 ]
 ],
@@ -1988,15 +1700,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -2004,7 +1716,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 20
+"who_in_family": 17
 },
 {
 "age": "8 yrs ",
@@ -2017,11 +1729,11 @@ I_extended_events_0 = [
 "kind": "",
 "media": [],
 "part_family": [
-6
+5
 ],
 "part_person": [
 [
-9,
+8,
 "Witness"
 ]
 ],
@@ -2032,102 +1744,6 @@ I_extended_events_0 = [
 }
 ],
 [
-{
-"age": "",
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "Birth of John",
-"gid": "E0003",
-"in_lifespan": null,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"Primary"
-]
-],
-"pc_reln": "father",
-"place": 12,
-"text": "",
-"type": "Birth of parent",
-"who_in_family": 14
-},
-{
-"age": "60 yrs before birth",
-"cita": [],
-"date": "1920\u201104\u201105",
-"date_sdn": 2422420,
-"descr": "a new owl is born",
-"gid": "E0002",
-"in_lifespan": false,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-12,
-"Primary"
-]
-],
-"pc_reln": "mother",
-"place": -1,
-"text": "",
-"type": "Birth of parent",
-"who_in_family": 12
-},
-{
-"age": "25 yrs before birth",
-"cita": [],
-"date": "about 1955\u201101\u201100",
-"date_sdn": 2435109,
-"descr": "",
-"gid": "E0011",
-"in_lifespan": false,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"birth father"
-],
-[
-15,
-"Primary"
-]
-],
-"pc_reln": "half-brother",
-"place": -1,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 15
-},
-{
-"age": "4 yrs before birth",
-"cita": [],
-"date": "1976",
-"date_sdn": 2442779,
-"descr": "",
-"gid": "E0007",
-"in_lifespan": false,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-12,
-"Primary"
-]
-],
-"pc_reln": "mother",
-"place": -1,
-"text": "",
-"type": "Death of parent",
-"who_in_family": 12
-},
 {
 "age": "0 mths ",
 "cita": [
@@ -2143,86 +1759,14 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-10,
+9,
 "Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
 ]
 ],
-"place": 11,
+"place": 10,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note attached to the upper reference bit for the birth event attached to Deidre.\n</p>\n</div>\n</div>",
 "type": "Birth",
 "who_in_family": ""
-},
-{
-"age": "0 mths ",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"pc_reln": "brother",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
-"type": "Birth of sibling",
-"who_in_family": 13
-},
-{
-"age": "20 yrs ",
-"cita": [],
-"date": "2000\u201111\u201122",
-"date_sdn": 2451871,
-"descr": "",
-"gid": "E0012",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-15,
-"Primary"
-]
-],
-"pc_reln": "half-brother",
-"place": -1,
-"text": "",
-"type": "Death of sibling",
-"who_in_family": 15
 },
 {
 "age": "20 yrs ",
@@ -2237,37 +1781,14 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-10,
+9,
 "Primary"
 ]
 ],
-"place": 10,
+"place": 9,
 "text": "",
 "type": "Occupation",
 "who_in_family": ""
-},
-{
-"age": "24 yrs ",
-"cita": [],
-"date": "2005",
-"date_sdn": 2453372,
-"descr": "",
-"gid": "E0008",
-"in_lifespan": true,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"Primary"
-]
-],
-"pc_reln": "father",
-"place": -1,
-"text": "",
-"type": "Death of parent",
-"who_in_family": 14
 },
 {
 "age": "39 yrs ",
@@ -2280,11 +1801,11 @@ I_extended_events_0 = [
 "kind": "",
 "media": [],
 "part_family": [
-5
+4
 ],
 "part_person": [
 [
-10,
+9,
 "Witness"
 ]
 ],
@@ -2309,15 +1830,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-14,
+13,
 "Primary"
 ]
 ],
 "pc_reln": "husband",
-"place": 12,
+"place": 11,
 "text": "",
 "type": "Birth of spouse",
-"who_in_family": 14
+"who_in_family": 13
 },
 {
 "age": "0 mths ",
@@ -2332,7 +1853,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-12,
+11,
 "Primary"
 ]
 ],
@@ -2352,11 +1873,11 @@ I_extended_events_0 = [
 "kind": "",
 "media": [],
 "part_family": [
-3
+2
 ],
 "part_person": [],
 "pc_reln": "",
-"place": 3,
+"place": 2,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThey set off from Cronulla beach and were married in a pea-green boat\n</p>\n</div>\n</div>",
 "type": "Marriage",
 "who_in_family": ""
@@ -2374,19 +1895,19 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-14,
-"birth father"
+12,
+"Primary"
 ],
 [
-15,
-"Primary"
+13,
+"birth father"
 ]
 ],
 "pc_reln": "step son",
 "place": -1,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 15
+"who_in_family": 12
 },
 {
 "age": "55 yrs ",
@@ -2401,7 +1922,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-12,
+11,
 "Primary"
 ]
 ],
@@ -2409,80 +1930,6 @@ I_extended_events_0 = [
 "text": "",
 "type": "Death",
 "who_in_family": ""
-},
-{
-"age": "4 yrs after death",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": false,
-"kind": "child",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"pc_reln": "son",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
-"type": "Birth of child",
-"who_in_family": 13
-},
-{
-"age": "4 yrs after death",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": false,
-"kind": "child",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"pc_reln": "daughter",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note attached to the upper reference bit for the birth event attached to Deidre.\n</p>\n</div>\n</div>",
-"type": "Birth of child",
-"who_in_family": 10
 },
 {
 "age": "24 yrs after death",
@@ -2497,7 +1944,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-15,
+12,
 "Primary"
 ]
 ],
@@ -2505,12 +1952,12 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of child",
-"who_in_family": 15
+"who_in_family": 12
 },
 {
 "age": "29 yrs after death",
 "cita": [],
-"date": "2005",
+"date": "after 2005",
 "date_sdn": 2453372,
 "descr": "",
 "gid": "E0008",
@@ -2520,7 +1967,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-14,
+13,
 "Primary"
 ]
 ],
@@ -2528,526 +1975,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of spouse",
-"who_in_family": 14
-}
-],
-[
-{
-"age": "",
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "Birth of John",
-"gid": "E0003",
-"in_lifespan": null,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"Primary"
-]
-],
-"pc_reln": "father",
-"place": 12,
-"text": "",
-"type": "Birth of parent",
-"who_in_family": 14
-},
-{
-"age": "60 yrs before birth",
-"cita": [],
-"date": "1920\u201104\u201105",
-"date_sdn": 2422420,
-"descr": "a new owl is born",
-"gid": "E0002",
-"in_lifespan": false,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-12,
-"Primary"
-]
-],
-"pc_reln": "mother",
-"place": -1,
-"text": "",
-"type": "Birth of parent",
-"who_in_family": 12
-},
-{
-"age": "25 yrs before birth",
-"cita": [],
-"date": "about 1955\u201101\u201100",
-"date_sdn": 2435109,
-"descr": "",
-"gid": "E0011",
-"in_lifespan": false,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"birth father"
-],
-[
-15,
-"Primary"
-]
-],
-"pc_reln": "half-brother",
-"place": -1,
-"text": "",
-"type": "Birth of sibling",
-"who_in_family": 15
-},
-{
-"age": "4 yrs before birth",
-"cita": [],
-"date": "1976",
-"date_sdn": 2442779,
-"descr": "",
-"gid": "E0007",
-"in_lifespan": false,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-12,
-"Primary"
-]
-],
-"pc_reln": "mother",
-"place": -1,
-"text": "",
-"type": "Death of parent",
-"who_in_family": 12
-},
-{
-"age": "0 mths ",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": true,
-"kind": "",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
-"type": "Birth",
-"who_in_family": ""
-},
-{
-"age": "0 mths ",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"pc_reln": "sister",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note attached to the upper reference bit for the birth event attached to Deidre.\n</p>\n</div>\n</div>",
-"type": "Birth of sibling",
-"who_in_family": 10
-},
-{
-"age": "1 yrs ",
-"cita": [],
-"date": "1982",
-"date_sdn": 2444971,
-"descr": "",
-"gid": "E0004",
-"in_lifespan": true,
-"kind": "",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-13,
-"Primary"
-]
-],
-"place": 1,
-"text": "<div>\n<i class=\"NoteType\">\nGeneral\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThe twins were baptised together.\n</p>\n</div>\n</div>",
-"type": "Christening",
-"who_in_family": ""
-},
-{
-"age": "17 yrs ",
-"cita": [],
-"date": "1998",
-"date_sdn": 2450815,
-"descr": "Fred went to Sydney uni",
-"gid": "E0005",
-"in_lifespan": true,
-"kind": "",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-13,
-"Primary"
-]
-],
-"place": 9,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\na page about Sydney Uni:<br />\n<a href=\"https://www.sydney.edu.au/about-us/our-story.html\"></a><a href=\"https://www.sydney.edu.au/about-us/our-story.html\"><a href=\"https://www.sydney.edu.au/about-us/our-story.html\">https://www.sydney.edu.au/about-us/our-story.html</a></a>\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nHtml code\n</i>\n<div class=\"grampsstylednote\">\n<table border='1' style='border-collapse:collapse; width:70%' >\n<tr><td>Family name</td><td>Given names</td><td>Reg number</td>\t<td>Father's Given Name(s)</td><td>Mother's Given Name(s)</td><td>District</td></tr>\n<tr><td>BROWN</td><td>STEPHEN R</td><td>12345/1899</td><td>WILLIAM T</td><td>ANNIE</td><td>SYDNEY</td></tr>\n</table>\n</div>\n</div>",
-"type": "Education",
-"who_in_family": ""
-},
-{
-"age": "19 yrs ",
-"cita": [],
-"date": "after 1999\u201110\u201100",
-"date_sdn": 2451453,
-"descr": "",
-"gid": "E0010",
-"in_lifespan": true,
-"kind": "",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-13,
-"Primary"
-]
-],
-"place": -1,
-"text": "",
-"type": "Burial",
-"who_in_family": ""
-},
-{
-"age": "1 yrs after death",
-"cita": [],
-"date": "2000\u201111\u201122",
-"date_sdn": 2451871,
-"descr": "",
-"gid": "E0012",
-"in_lifespan": false,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-15,
-"Primary"
-]
-],
-"pc_reln": "half-brother",
-"place": -1,
-"text": "",
-"type": "Death of sibling",
-"who_in_family": 15
-},
-{
-"age": "5 yrs after death",
-"cita": [],
-"date": "2005",
-"date_sdn": 2453372,
-"descr": "",
-"gid": "E0008",
-"in_lifespan": false,
-"kind": "parent",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"Primary"
-]
-],
-"pc_reln": "father",
-"place": -1,
-"text": "",
-"type": "Death of parent",
-"who_in_family": 14
-}
-],
-[
-{
-"age": "",
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "Birth of John",
-"gid": "E0003",
-"in_lifespan": null,
-"kind": "",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"Primary"
-]
-],
-"place": 12,
-"text": "",
-"type": "Birth",
-"who_in_family": ""
-},
-{
-"age": "",
-"cita": [],
-"date": "1920\u201104\u201105",
-"date_sdn": 2422420,
-"descr": "a new owl is born",
-"gid": "E0002",
-"in_lifespan": null,
-"kind": "spouse",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-12,
-"Primary"
-]
-],
-"pc_reln": "wife",
-"place": -1,
-"text": "",
-"type": "Birth of spouse",
-"who_in_family": 12
-},
-{
-"age": "",
-"cita": [],
-"date": "1950",
-"date_sdn": 2433283,
-"descr": "married at sea",
-"gid": "E0001",
-"in_lifespan": null,
-"kind": "",
-"media": [],
-"part_family": [
-3
-],
-"part_person": [],
-"pc_reln": "",
-"place": 3,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThey set off from Cronulla beach and were married in a pea-green boat\n</p>\n</div>\n</div>",
-"type": "Marriage",
-"who_in_family": ""
-},
-{
-"age": "",
-"cita": [],
-"date": "about 1955\u201101\u201100",
-"date_sdn": 2435109,
-"descr": "",
-"gid": "E0011",
-"in_lifespan": null,
-"kind": "child",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"birth father"
-],
-[
-15,
-"Primary"
-]
-],
-"pc_reln": "son",
-"place": -1,
-"text": "",
-"type": "Birth of child",
-"who_in_family": 15
-},
-{
-"age": "",
-"cita": [],
-"date": "1976",
-"date_sdn": 2442779,
-"descr": "",
-"gid": "E0007",
-"in_lifespan": null,
-"kind": "spouse",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-12,
-"Primary"
-]
-],
-"pc_reln": "wife",
-"place": -1,
-"text": "",
-"type": "Death of spouse",
-"who_in_family": 12
-},
-{
-"age": "",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": null,
-"kind": "child",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"pc_reln": "son",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
-"type": "Birth of child",
 "who_in_family": 13
-},
-{
-"age": "",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": null,
-"kind": "child",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"pc_reln": "daughter",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note attached to the upper reference bit for the birth event attached to Deidre.\n</p>\n</div>\n</div>",
-"type": "Birth of child",
-"who_in_family": 10
-},
-{
-"age": "",
-"cita": [],
-"date": "2000\u201111\u201122",
-"date_sdn": 2451871,
-"descr": "",
-"gid": "E0012",
-"in_lifespan": null,
-"kind": "child",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-15,
-"Primary"
-]
-],
-"pc_reln": "son",
-"place": -1,
-"text": "",
-"type": "Death of child",
-"who_in_family": 15
-},
-{
-"age": "",
-"cita": [],
-"date": "2005",
-"date_sdn": 2453372,
-"descr": "",
-"gid": "E0008",
-"in_lifespan": null,
-"kind": "",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"Primary"
-]
-],
-"place": -1,
-"text": "",
-"type": "Death",
-"who_in_family": ""
 }
 ],
 [
@@ -3064,15 +1992,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-14,
+13,
 "Primary"
 ]
 ],
 "pc_reln": "father",
-"place": 12,
+"place": 11,
 "text": "",
 "type": "Birth of parent",
-"who_in_family": 14
+"who_in_family": 13
 },
 {
 "age": "34 yrs before birth",
@@ -3087,7 +2015,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-12,
+11,
 "Primary"
 ]
 ],
@@ -3095,7 +2023,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of parent",
-"who_in_family": 12
+"who_in_family": 11
 },
 {
 "age": "0 mths ",
@@ -3110,12 +2038,12 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-14,
-"birth father"
+12,
+"Primary"
 ],
 [
-15,
-"Primary"
+13,
+"birth father"
 ]
 ],
 "place": -1,
@@ -3136,7 +2064,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-12,
+11,
 "Primary"
 ]
 ],
@@ -3144,81 +2072,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of parent",
-"who_in_family": 12
-},
-{
-"age": "25 yrs ",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"pc_reln": "half-brother",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
-"type": "Birth of sibling",
-"who_in_family": 13
-},
-{
-"age": "25 yrs ",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": true,
-"kind": "sibling",
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"pc_reln": "half-sister",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note attached to the upper reference bit for the birth event attached to Deidre.\n</p>\n</div>\n</div>",
-"type": "Birth of sibling",
-"who_in_family": 10
+"who_in_family": 11
 },
 {
 "age": "45 yrs ",
@@ -3233,7 +2087,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-15,
+12,
 "Primary"
 ]
 ],
@@ -3245,7 +2099,7 @@ I_extended_events_0 = [
 {
 "age": "4 yrs after death",
 "cita": [],
-"date": "2005",
+"date": "after 2005",
 "date_sdn": 2453372,
 "descr": "",
 "gid": "E0008",
@@ -3255,7 +2109,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-14,
+13,
 "Primary"
 ]
 ],
@@ -3263,46 +2117,169 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of parent",
-"who_in_family": 14
+"who_in_family": 13
 }
 ],
 [
 {
 "age": "",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "Birth of John",
+"gid": "E0003",
 "in_lifespan": null,
-"kind": "parent",
+"kind": "",
 "media": [],
 "part_family": [],
 "part_person": [
 [
-10,
+13,
 "Primary"
+]
 ],
+"place": 11,
+"text": "",
+"type": "Birth",
+"who_in_family": ""
+},
+{
+"age": "",
+"cita": [],
+"date": "1920\u201104\u201105",
+"date_sdn": 2422420,
+"descr": "a new owl is born",
+"gid": "E0002",
+"in_lifespan": null,
+"kind": "spouse",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+11,
+"Primary"
+]
+],
+"pc_reln": "wife",
+"place": -1,
+"text": "",
+"type": "Birth of spouse",
+"who_in_family": 11
+},
+{
+"age": "",
+"cita": [],
+"date": "1950",
+"date_sdn": 2433283,
+"descr": "married at sea",
+"gid": "E0001",
+"in_lifespan": null,
+"kind": "",
+"media": [],
+"part_family": [
+2
+],
+"part_person": [],
+"pc_reln": "",
+"place": 2,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThey set off from Cronulla beach and were married in a pea-green boat\n</p>\n</div>\n</div>",
+"type": "Marriage",
+"who_in_family": ""
+},
+{
+"age": "",
+"cita": [],
+"date": "about 1955\u201101\u201100",
+"date_sdn": 2435109,
+"descr": "",
+"gid": "E0011",
+"in_lifespan": null,
+"kind": "child",
+"media": [],
+"part_family": [],
+"part_person": [
 [
 12,
-"birth mother"
+"Primary"
 ],
 [
 13,
-"Primary"
-],
-[
-14,
 "birth father"
 ]
 ],
-"pc_reln": "father",
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
-"type": "Birth of parent",
-"who_in_family": 13
+"pc_reln": "son",
+"place": -1,
+"text": "",
+"type": "Birth of child",
+"who_in_family": 12
+},
+{
+"age": "",
+"cita": [],
+"date": "1976",
+"date_sdn": 2442779,
+"descr": "",
+"gid": "E0007",
+"in_lifespan": null,
+"kind": "spouse",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+11,
+"Primary"
+]
+],
+"pc_reln": "wife",
+"place": -1,
+"text": "",
+"type": "Death of spouse",
+"who_in_family": 11
+},
+{
+"age": "",
+"cita": [],
+"date": "2000\u201111\u201122",
+"date_sdn": 2451871,
+"descr": "",
+"gid": "E0012",
+"in_lifespan": null,
+"kind": "child",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+12,
+"Primary"
+]
+],
+"pc_reln": "son",
+"place": -1,
+"text": "",
+"type": "Death of child",
+"who_in_family": 12
+},
+{
+"age": "",
+"cita": [],
+"date": "after 2005",
+"date_sdn": 2453372,
+"descr": "",
+"gid": "E0008",
+"in_lifespan": null,
+"kind": "",
+"media": [],
+"part_family": [],
+"part_person": [
+[
+13,
+"Primary"
+]
+],
+"place": -1,
+"text": "",
+"type": "Death",
+"who_in_family": ""
 }
 ],
 [
@@ -3319,15 +2296,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -3335,7 +2312,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of spouse",
-"who_in_family": 20
+"who_in_family": 17
 },
 {
 "age": "",
@@ -3354,19 +2331,19 @@ I_extended_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "adopted son",
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "",
@@ -3381,15 +2358,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "adopted son",
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death of child",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "",
@@ -3402,11 +2379,11 @@ I_extended_events_0 = [
 "kind": "",
 "media": [],
 "part_family": [
-6
+5
 ],
 "part_person": [
 [
-9,
+8,
 "Witness"
 ]
 ],
@@ -3431,15 +2408,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -3447,7 +2424,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of parent",
-"who_in_family": 20
+"who_in_family": 17
 },
 {
 "age": "11 mths before birth",
@@ -3475,7 +2452,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "unknown lineage",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of parent",
 "who_in_family": 2
@@ -3493,7 +2470,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -3524,41 +2501,37 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "non-birth sister",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of sibling",
 "who_in_family": 0
 },
 {
-"age": "4 mths ",
+"age": "0 mths ",
 "cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
+"date": "2019",
+"date_sdn": 2458485,
 "descr": "",
-"gid": "E0034",
+"gid": "E0038",
 "in_lifespan": true,
 "kind": "sibling",
 "media": [],
 "part_family": [],
 "part_person": [
 [
-2,
-"birth mother"
-],
-[
-6,
+1,
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
-"pc_reln": "non-birth brother",
-"place": 4,
+"pc_reln": "non-birth sister",
+"place": 8,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 6
+"who_in_family": 1
 },
 {
 "age": "6 mths ",
@@ -3577,19 +2550,19 @@ I_extended_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "non-birth brother",
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "7 mths ",
@@ -3612,12 +2585,12 @@ I_extended_events_0 = [
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
 "pc_reln": "non-birth sister",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of sibling",
 "who_in_family": 5
@@ -3635,15 +2608,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "non-birth brother",
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death of sibling",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "2 yrs ",
@@ -3681,7 +2654,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -3705,7 +2678,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-19,
+16,
 "Primary"
 ]
 ],
@@ -3727,7 +2700,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "Primary"
 ]
 ],
@@ -3735,7 +2708,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of spouse",
-"who_in_family": 9
+"who_in_family": 8
 },
 {
 "age": "",
@@ -3750,15 +2723,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -3766,7 +2739,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 20
+"who_in_family": 17
 }
 ],
 [
@@ -3783,7 +2756,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-19,
+16,
 "Primary"
 ]
 ],
@@ -3791,7 +2764,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNobody knows when Old Man Rabbit was born; it seems like he has been on the farm forever.\n</p>\n</div>\n</div>",
 "type": "Birth of parent",
-"who_in_family": 19
+"who_in_family": 16
 },
 {
 "age": "2 yrs before birth",
@@ -3806,7 +2779,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "Primary"
 ]
 ],
@@ -3814,7 +2787,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of parent",
-"who_in_family": 9
+"who_in_family": 8
 },
 {
 "age": "0 mths ",
@@ -3829,15 +2802,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -3872,7 +2845,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "wife",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of spouse",
 "who_in_family": 2
@@ -3890,7 +2863,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -3898,7 +2871,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 18
+"who_in_family": 15
 },
 {
 "age": "5 yrs ",
@@ -3917,19 +2890,19 @@ I_extended_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "son",
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "5 yrs ",
@@ -3944,15 +2917,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
 "pc_reln": "son",
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death of child",
-"who_in_family": 21
+"who_in_family": 18
 },
 {
 "age": "5 yrs ",
@@ -3965,11 +2938,11 @@ I_extended_events_0 = [
 "kind": "",
 "media": [],
 "part_family": [
-5
+4
 ],
 "part_person": [
 [
-10,
+9,
 "Witness"
 ]
 ],
@@ -3990,11 +2963,11 @@ I_extended_events_0 = [
 "kind": "",
 "media": [],
 "part_family": [
-6
+5
 ],
 "part_person": [
 [
-9,
+8,
 "Witness"
 ]
 ],
@@ -4040,7 +3013,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -4048,7 +3021,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of child",
-"who_in_family": 18
+"who_in_family": 15
 }
 ],
 [
@@ -4065,15 +3038,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -4081,7 +3054,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of parent",
-"who_in_family": 20
+"who_in_family": 17
 },
 {
 "age": "1 yrs before birth",
@@ -4109,7 +3082,7 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "mother",
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth of parent",
 "who_in_family": 2
@@ -4127,7 +3100,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -4135,7 +3108,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 18
+"who_in_family": 15
 },
 {
 "age": "6 mths before birth",
@@ -4159,41 +3132,37 @@ I_extended_events_0 = [
 ]
 ],
 "pc_reln": "half-sister",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of sibling",
 "who_in_family": 0
 },
 {
-"age": "2 mths before birth",
+"age": "6 mths before birth",
 "cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
+"date": "2019",
+"date_sdn": 2458485,
 "descr": "",
-"gid": "E0034",
+"gid": "E0038",
 "in_lifespan": false,
 "kind": "sibling",
 "media": [],
 "part_family": [],
 "part_person": [
 [
-2,
-"birth mother"
-],
-[
-6,
+1,
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
-"pc_reln": "half-brother",
-"place": 4,
+"pc_reln": "non-birth sister",
+"place": 8,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 6
+"who_in_family": 1
 },
 {
 "age": "0 mths ",
@@ -4212,15 +3181,15 @@ I_extended_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
@@ -4246,12 +3215,12 @@ I_extended_events_0 = [
 "Primary"
 ],
 [
-7,
+6,
 "birth father"
 ]
 ],
 "pc_reln": "half-sister",
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth of sibling",
 "who_in_family": 5
@@ -4269,11 +3238,11 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death",
 "who_in_family": ""
@@ -4314,7 +3283,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -4322,7 +3291,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Death of sibling",
-"who_in_family": 18
+"who_in_family": 15
 }
 ],
 [
@@ -4339,7 +3308,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-19,
+16,
 "Primary"
 ]
 ],
@@ -4347,7 +3316,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNobody knows when Old Man Rabbit was born; it seems like he has been on the farm forever.\n</p>\n</div>\n</div>",
 "type": "Birth of parent",
-"who_in_family": 19
+"who_in_family": 16
 },
 {
 "age": "",
@@ -4362,7 +3331,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "Primary"
 ]
 ],
@@ -4370,7 +3339,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of parent",
-"who_in_family": 9
+"who_in_family": 8
 },
 {
 "age": "",
@@ -4385,15 +3354,15 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -4401,7 +3370,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of sibling",
-"who_in_family": 20
+"who_in_family": 17
 }
 ],
 [
@@ -4418,7 +3387,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-8,
+7,
 "Primary"
 ]
 ],
@@ -4426,7 +3395,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 8
+"who_in_family": 7
 }
 ],
 [
@@ -4443,7 +3412,7 @@ I_extended_events_0 = [
 "part_family": [],
 "part_person": [
 [
-8,
+7,
 "Primary"
 ]
 ],
@@ -4451,7 +3420,7 @@ I_extended_events_0 = [
 "place": -1,
 "text": "",
 "type": "Birth of child",
-"who_in_family": 8
+"who_in_family": 7
 }
 ]
 ]

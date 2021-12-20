@@ -1,7 +1,6 @@
 // This file is generated
 
 S_gid_0 = [
-"S0001",
 "S0004",
 "S0000"
 ]

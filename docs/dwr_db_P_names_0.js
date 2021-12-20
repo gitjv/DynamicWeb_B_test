@@ -67,13 +67,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Broken Hill, NSW"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Cabbage field"
 }
 ],
@@ -153,7 +146,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Sydney"
+"name": "The other farm"
 }
 ],
 [

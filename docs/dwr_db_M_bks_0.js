@@ -3,21 +3,7 @@
 M_bks_0 = [
 [
 {
-"bk_idx": 0,
-"cita": [],
-"note": "",
-"rect": [
-0,
-0,
-100,
-100
-],
-"thumb": "thumb/8/4/e7a2320b3c9538db65585b32848.png"
-}
-],
-[
-{
-"bk_idx": 2,
+"bk_idx": 1,
 "cita": [],
 "note": "",
 "rect": [

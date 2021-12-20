@@ -22,13 +22,39 @@ I_events_0 = [
 "birth mother"
 ]
 ],
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
 }
 ],
-[],
+[
+{
+"age": "",
+"cita": [],
+"date": "2019",
+"date_sdn": 2458485,
+"descr": "",
+"gid": "E0038",
+"in_lifespan": null,
+"media": [],
+"part_family": [],
+"part_person": [
+[
+1,
+"Primary"
+],
+[
+6,
+"birth father"
+]
+],
+"place": 8,
+"text": "",
+"type": "Birth",
+"who_in_family": ""
+}
+],
 [
 {
 "age": "",
@@ -54,7 +80,7 @@ I_events_0 = [
 "birth father"
 ]
 ],
-"place": 6,
+"place": 5,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
@@ -121,7 +147,7 @@ I_events_0 = [
 "Primary"
 ]
 ],
-"place": -1,
+"place": 8,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
@@ -169,42 +195,11 @@ I_events_0 = [
 "Primary"
 ],
 [
-7,
-"birth father"
-]
-],
-"place": 4,
-"text": "",
-"type": "Birth",
-"who_in_family": ""
-}
-],
-[
-{
-"age": "",
-"cita": [],
-"date": "2019\u201106\u201100",
-"date_sdn": 2458636,
-"descr": "",
-"gid": "E0034",
-"in_lifespan": null,
-"media": [],
-"part_family": [],
-"part_person": [
-[
-2,
-"birth mother"
-],
-[
 6,
-"Primary"
-],
-[
-7,
 "birth father"
 ]
 ],
-"place": 4,
+"place": 3,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
@@ -223,7 +218,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-7,
+6,
 "Primary"
 ]
 ],
@@ -246,7 +241,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-8,
+7,
 "Primary"
 ]
 ],
@@ -267,11 +262,11 @@ I_events_0 = [
 "in_lifespan": null,
 "media": [],
 "part_family": [
-6
+5
 ],
 "part_person": [
 [
-9,
+8,
 "Witness"
 ]
 ],
@@ -292,7 +287,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "Primary"
 ]
 ],
@@ -315,11 +310,11 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-10,
+9,
 "Primary"
 ]
 ],
-"place": 10,
+"place": 9,
 "text": "",
 "type": "Occupation",
 "who_in_family": ""
@@ -338,23 +333,11 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-10,
+9,
 "Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
 ]
 ],
-"place": 11,
+"place": 10,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note attached to the upper reference bit for the birth event attached to Deidre.\n</p>\n</div>\n</div>",
 "type": "Birth",
 "who_in_family": ""
@@ -369,11 +352,11 @@ I_events_0 = [
 "in_lifespan": null,
 "media": [],
 "part_family": [
-5
+4
 ],
 "part_person": [
 [
-10,
+9,
 "Witness"
 ]
 ],
@@ -397,7 +380,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-12,
+11,
 "Primary"
 ]
 ],
@@ -418,151 +401,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-12,
-"Primary"
-]
-],
-"place": -1,
-"text": "",
-"type": "Death",
-"who_in_family": ""
-}
-],
-[
-{
-"age": "",
-"cita": [
-0
-],
-"date": "1980\u201106\u201101",
-"date_sdn": 2444392,
-"descr": "a twin",
-"gid": "E0000",
-"in_lifespan": null,
-"media": [],
-"part_family": [],
-"part_person": [
-[
-10,
-"Primary"
-],
-[
-12,
-"birth mother"
-],
-[
-13,
-"Primary"
-],
-[
-14,
-"birth father"
-]
-],
-"place": 11,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
-"type": "Birth",
-"who_in_family": ""
-},
-{
-"age": "",
-"cita": [],
-"date": "1982",
-"date_sdn": 2444971,
-"descr": "",
-"gid": "E0004",
-"in_lifespan": null,
-"media": [],
-"part_family": [],
-"part_person": [
-[
-13,
-"Primary"
-]
-],
-"place": 1,
-"text": "<div>\n<i class=\"NoteType\">\nGeneral\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThe twins were baptised together.\n</p>\n</div>\n</div>",
-"type": "Christening",
-"who_in_family": ""
-},
-{
-"age": "",
-"cita": [],
-"date": "1998",
-"date_sdn": 2450815,
-"descr": "Fred went to Sydney uni",
-"gid": "E0005",
-"in_lifespan": null,
-"media": [],
-"part_family": [],
-"part_person": [
-[
-13,
-"Primary"
-]
-],
-"place": 9,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\na page about Sydney Uni:<br />\n<a href=\"https://www.sydney.edu.au/about-us/our-story.html\"></a><a href=\"https://www.sydney.edu.au/about-us/our-story.html\"><a href=\"https://www.sydney.edu.au/about-us/our-story.html\">https://www.sydney.edu.au/about-us/our-story.html</a></a>\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nHtml code\n</i>\n<div class=\"grampsstylednote\">\n<table border='1' style='border-collapse:collapse; width:70%' >\n<tr><td>Family name</td><td>Given names</td><td>Reg number</td>\t<td>Father's Given Name(s)</td><td>Mother's Given Name(s)</td><td>District</td></tr>\n<tr><td>BROWN</td><td>STEPHEN R</td><td>12345/1899</td><td>WILLIAM T</td><td>ANNIE</td><td>SYDNEY</td></tr>\n</table>\n</div>\n</div>",
-"type": "Education",
-"who_in_family": ""
-},
-{
-"age": "",
-"cita": [],
-"date": "after 1999\u201110\u201100",
-"date_sdn": 2451453,
-"descr": "",
-"gid": "E0010",
-"in_lifespan": null,
-"media": [],
-"part_family": [],
-"part_person": [
-[
-13,
-"Primary"
-]
-],
-"place": -1,
-"text": "",
-"type": "Burial",
-"who_in_family": ""
-}
-],
-[
-{
-"age": "",
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "Birth of John",
-"gid": "E0003",
-"in_lifespan": null,
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
-"Primary"
-]
-],
-"place": 12,
-"text": "",
-"type": "Birth",
-"who_in_family": ""
-},
-{
-"age": "",
-"cita": [],
-"date": "2005",
-"date_sdn": 2453372,
-"descr": "",
-"gid": "E0008",
-"in_lifespan": null,
-"media": [],
-"part_family": [],
-"part_person": [
-[
-14,
+11,
 "Primary"
 ]
 ],
@@ -585,12 +424,12 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-14,
-"birth father"
+12,
+"Primary"
 ],
 [
-15,
-"Primary"
+13,
+"birth father"
 ]
 ],
 "place": -1,
@@ -610,7 +449,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-15,
+12,
 "Primary"
 ]
 ],
@@ -620,7 +459,50 @@ I_events_0 = [
 "who_in_family": ""
 }
 ],
-[],
+[
+{
+"age": "",
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "Birth of John",
+"gid": "E0003",
+"in_lifespan": null,
+"media": [],
+"part_family": [],
+"part_person": [
+[
+13,
+"Primary"
+]
+],
+"place": 11,
+"text": "",
+"type": "Birth",
+"who_in_family": ""
+},
+{
+"age": "",
+"cita": [],
+"date": "after 2005",
+"date_sdn": 2453372,
+"descr": "",
+"gid": "E0008",
+"in_lifespan": null,
+"media": [],
+"part_family": [],
+"part_person": [
+[
+13,
+"Primary"
+]
+],
+"place": -1,
+"text": "",
+"type": "Death",
+"who_in_family": ""
+}
+],
 [],
 [
 {
@@ -635,7 +517,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -656,7 +538,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-18,
+15,
 "Primary"
 ]
 ],
@@ -679,7 +561,7 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-19,
+16,
 "Primary"
 ]
 ],
@@ -702,15 +584,15 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-9,
+8,
 "birth mother"
 ],
 [
-19,
+16,
 "birth father"
 ],
 [
-20,
+17,
 "Primary"
 ]
 ],
@@ -737,15 +619,15 @@ I_events_0 = [
 "birth mother"
 ],
 [
-20,
+17,
 "birth father"
 ],
 [
-21,
+18,
 "Primary"
 ]
 ],
-"place": 8,
+"place": 7,
 "text": "",
 "type": "Birth",
 "who_in_family": ""
@@ -762,11 +644,11 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 [
-21,
+18,
 "Primary"
 ]
 ],
-"place": 2,
+"place": 1,
 "text": "",
 "type": "Death",
 "who_in_family": ""

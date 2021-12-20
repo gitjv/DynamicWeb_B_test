@@ -18,13 +18,6 @@ P_urls_0 = [
 "uri": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F"
 }
 ],
-[
-{
-"descr": "",
-"type": "Web Home",
-"uri": "https://en.wikipedia.org/wiki/Broken_Hill"
-}
-],
 [],
 [
 {

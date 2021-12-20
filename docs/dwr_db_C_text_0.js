@@ -2,7 +2,6 @@
 
 C_text_0 = [
 "",
-"",
 "<p>\n<b>\nPage: \n</b>\nGeoNames ID: 2077456\n</p>",
 "<p>\n<b>\nPage: \n</b>\nGeoNames ID: 2155400\n</p>",
 "<p>\n<b>\nPage: \n</b>\nGeoNames ID: 2169956\n</p>",

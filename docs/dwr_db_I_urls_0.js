@@ -14,15 +14,6 @@ I_urls_0 = [
 [],
 [],
 [],
-[
-{
-"descr": "an internet ref for fred",
-"type": "Web Home",
-"uri": "http://asd.dfdf.h"
-}
-],
-[],
-[],
 [],
 [],
 [],
