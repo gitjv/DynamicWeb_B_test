@@ -2,14 +2,12 @@
 
 N_letter_0 = [
 "B",
-"B",
-"B",
-"B",
-"G",
+"F",
 "H",
 "M",
+"O",
+"P",
 "R",
-"T",
-"W"
+"R"
 ]
 Dwr.ScriptLoaded('dwr_db_N_letter_0.js');

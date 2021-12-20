@@ -4,13 +4,12 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 24,
+"index": 2,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
 }
 ],
-[],
 [
 {
 "cita": [],
@@ -18,42 +17,33 @@ F_chil_0 = [
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 8,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
 },
 {
 "cita": [],
-"index": 4,
+"index": 0,
 "note": "",
 "to_father": "None",
 "to_mother": "Birth"
 },
 {
 "cita": [],
-"index": 9,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 17,
+"index": 6,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
 },
 {
 "cita": [],
-"index": 19,
+"index": 1,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Adopted"
+}
+],
+[
+{
+"cita": [],
+"index": 16,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -62,7 +52,14 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 18,
+"index": 13,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+},
+{
+"cita": [],
+"index": 10,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -71,14 +68,46 @@ F_chil_0 = [
 "cita": [],
 "index": 15,
 "note": "",
-"to_father": "oddf rel",
-"to_mother": "oddm rel"
+"to_father": "Birth",
+"to_mother": "Stepchild"
 }
 ],
 [
 {
 "cita": [],
+"index": 20,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+},
+{
+"cita": [],
+"index": 22,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 21,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+},
+{
+"cita": [],
 "index": 18,
+"note": "",
+"to_father": "Unknown",
+"to_mother": "Unknown"
+}
+],
+[
+{
+"cita": [],
+"index": 21,
 "note": "",
 "to_father": "Sponsored",
 "to_mother": "Adopted"
@@ -87,56 +116,10 @@ F_chil_0 = [
 [
 {
 "cita": [],
-"index": 27,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 25,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-},
-{
-"cita": [],
-"index": 23,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-},
-{
-"cita": [],
-"index": 2,
-"note": "",
-"to_father": "Adopted",
-"to_mother": "Birth"
-},
-{
-"cita": [],
-"index": 24,
+"index": 8,
 "note": "",
 "to_father": "Foster",
 "to_mother": "Foster"
-},
-{
-"cita": [],
-"index": 28,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Stepchild"
-}
-],
-[
-{
-"cita": [],
-"index": 22,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
 }
 ]
 ]

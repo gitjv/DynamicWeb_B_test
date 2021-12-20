@@ -1,7 +1,6 @@
 // This file is generated
 
 S_media_0 = [
-[],
 [
 {
 "cita": [],
@@ -20,7 +19,7 @@ S_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 2,
+"m_idx": 1,
 "note": "",
 "rect": [
 0,
@@ -30,7 +29,6 @@ S_media_0 = [
 ],
 "thumb": "thumb/b/8/e7a1fa46cf960b21385a2e1ad8b.png"
 }
-],
-[]
+]
 ]
 Dwr.ScriptLoaded('dwr_db_S_media_0.js');

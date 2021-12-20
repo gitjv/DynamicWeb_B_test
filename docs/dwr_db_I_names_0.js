@@ -7,80 +7,26 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "fostera's dad black",
-"given": "fostera's dad",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"black"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "fosteria's mum black",
-"given": "fosteria's mum",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"black"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Adoptero Blue",
-"given": "Adoptero",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Blue"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "persona 1 brown",
-"given": "persona 1",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"brown"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Bella Bunny",
 "given": "Bella",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Bunny"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Cottontail Bunny",
+"given": "Cottontail",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -205,13 +151,13 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "persona 2 green",
-"given": "persona 2",
+"full": "Fostera Fox",
+"given": "Fostera",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
-"green"
+"Fox"
 ],
 "title": "",
 "type": "Birth Name"
@@ -241,6 +187,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Deidre McGregor",
+"given": "Deidre",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McGregor"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Mister McGregor",
 "given": "Mister",
 "nick": "",
@@ -248,6 +212,96 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "McGregor"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Doreen Owl",
+"given": "Doreen",
+"nick": "dee",
+"note": "",
+"suffix": "",
+"surnames": [
+"Owl"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Fred Fernando Pussycat",
+"given": "Fred Fernando",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pussycat"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "John Pussycat",
+"given": "John",
+"nick": "jack",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pussycat"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Othero Pussycat",
+"given": "Othero",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pussycat"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Tallulah Pussycat",
+"given": "Tallulah",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pussycat"
 ],
 "title": "",
 "type": "Birth Name"
@@ -367,47 +421,13 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "doreen Tudor",
-"given": "doreen",
-"nick": "dee",
-"note": "",
-"suffix": "",
-"surnames": [
-"Tudor"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "someone Tudor",
-"given": "someone",
-"nick": "s.o",
-"note": "",
-"suffix": "",
-"surnames": [
-"Tudor"
-],
-"title": "",
-"type": "Birth Name"
-},
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "other name hatcher",
-"given": "other name",
+"full": "fostera's dad RedFox",
+"given": "fostera's dad",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
-"hatcher"
+"RedFox"
 ],
 "title": "",
 "type": "Birth Name"
@@ -419,121 +439,13 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "crazy Windsor",
-"given": "crazy",
+"full": "fosteria's mum RedFox",
+"given": "fosteria's mum",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
-"Windsor"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Deidre Windsor",
-"given": "Deidre",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Windsor"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "fostera Windsor",
-"given": "fostera",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Windsor"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "fred fernando Windsor",
-"given": "fred fernando",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Windsor"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "john Windsor",
-"given": "john",
-"nick": "jack",
-"note": "",
-"suffix": "",
-"surnames": [
-"Windsor"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "little baby Windsor",
-"given": "little baby",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Windsor"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Othero Windsor",
-"given": "Othero",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Windsor"
+"RedFox"
 ],
 "title": "",
 "type": "Birth Name"

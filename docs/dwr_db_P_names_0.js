@@ -5,13 +5,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "7 Lawson St"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Australia"
 },
 {
@@ -81,6 +74,37 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Cabbage field"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Cronulla"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Cronulla Beach"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Gunnamatta"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "East Burrow"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "New South Wales"
 },
 {
@@ -115,14 +139,14 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Panania"
+"name": "Queensland, Australia"
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Queensland, Australia"
+"name": "South Burrow"
 }
 ],
 [
@@ -136,29 +160,36 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Townsville"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Townsville"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Townsville"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Townsville"
+"name": "the town"
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Wollongong, NSW"
+"name": "the village"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Townsville"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Townsville"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Townsville"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Townsville"
 }
 ]
 ]

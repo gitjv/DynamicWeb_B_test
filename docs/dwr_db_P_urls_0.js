@@ -1,7 +1,6 @@
 // This file is generated
 
 P_urls_0 = [
-[],
 [
 {
 "descr": "http://id.loc.gov/authorities/names/n79021326",
@@ -26,6 +25,15 @@ P_urls_0 = [
 "uri": "https://en.wikipedia.org/wiki/Broken_Hill"
 }
 ],
+[],
+[
+{
+"descr": "https://en.wikipedia.org/wiki/Cronulla%2C_New_South_Wales",
+"type": "Web Home",
+"uri": "https://en.wikipedia.org/wiki/Cronulla%2C_New_South_Wales"
+}
+],
+[],
 [
 {
 "descr": "https://en.wikipedia.org/wiki/New_South_Wales",
@@ -34,13 +42,9 @@ P_urls_0 = [
 }
 ],
 [],
-[
-{
-"descr": "https://en.wikipedia.org/wiki/Panania",
-"type": "Web Home",
-"uri": "https://en.wikipedia.org/wiki/Panania"
-}
-],
+[],
+[],
+[],
 [],
 [],
 [
@@ -49,7 +53,6 @@ P_urls_0 = [
 "type": "Web Home",
 "uri": "https://en.wikipedia.org/wiki/City_of_Townsville"
 }
-],
-[]
+]
 ]
 Dwr.ScriptLoaded('dwr_db_P_urls_0.js');

@@ -6,27 +6,6 @@ F_events_0 = [
 {
 "age": "",
 "cita": [],
-"date": "1955",
-"date_sdn": 2435109,
-"descr": "",
-"gid": "E0013",
-"in_lifespan": null,
-"media": [],
-"part_family": [
-1
-],
-"part_person": [],
-"place": -1,
-"text": "",
-"type": "Marriage",
-"who_in_family": ""
-}
-],
-[],
-[
-{
-"age": "",
-"cita": [],
 "date": "2019",
 "date_sdn": 2458485,
 "descr": "",
@@ -34,7 +13,7 @@ F_events_0 = [
 "in_lifespan": null,
 "media": [],
 "part_family": [
-3
+1
 ],
 "part_person": [],
 "place": -1,
@@ -52,12 +31,33 @@ F_events_0 = [
 "in_lifespan": null,
 "media": [],
 "part_family": [
-3
+1
 ],
 "part_person": [],
 "place": -1,
 "text": "",
 "type": "Divorce",
+"who_in_family": ""
+}
+],
+[],
+[
+{
+"age": "",
+"cita": [],
+"date": "1950",
+"date_sdn": 2433283,
+"descr": "married at sea",
+"gid": "E0001",
+"in_lifespan": null,
+"media": [],
+"part_family": [
+3
+],
+"part_person": [],
+"place": 3,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThey set off from Cronulla beach and were married in a pea-green boat\n</p>\n</div>\n</div>",
+"type": "Marriage",
 "who_in_family": ""
 }
 ],
@@ -75,7 +75,12 @@ F_events_0 = [
 "part_family": [
 5
 ],
-"part_person": [],
+"part_person": [
+[
+10,
+"Witness"
+]
+],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nTheir marriage was attended by a great number of Rabbits and Bunnies.\n</p>\n</div>\n</div>",
 "type": "Marriage",
@@ -97,31 +102,10 @@ F_events_0 = [
 ],
 "part_person": [
 [
-12,
+9,
 "Witness"
 ]
 ],
-"place": -1,
-"text": "",
-"type": "Marriage",
-"who_in_family": ""
-}
-],
-[],
-[
-{
-"age": "",
-"cita": [],
-"date": "1950",
-"date_sdn": 2433283,
-"descr": "married at sea",
-"gid": "E0001",
-"in_lifespan": null,
-"media": [],
-"part_family": [
-8
-],
-"part_person": [],
 "place": -1,
 "text": "",
 "type": "Marriage",

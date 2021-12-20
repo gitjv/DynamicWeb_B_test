@@ -22,23 +22,6 @@ I_attr_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"note": "",
-"type": "Identification Number",
-"value": "ryrurur"
-},
-{
-"cita": [],
-"note": "",
-"type": "Cause",
-"value": "zczzvz xczcvvz"
-}
-],
-[],
-[],
-[],
 [],
 [],
 [],

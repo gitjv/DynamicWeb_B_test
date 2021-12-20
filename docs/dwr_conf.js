@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Family Tree";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 8,
-    "F": 10,
-    "I": 29,
-    "M": 3,
-    "N": 10,
-    "P": 10,
+    "C": 6,
+    "F": 8,
+    "I": 25,
+    "M": 2,
+    "N": 8,
+    "P": 13,
     "R": 0,
-    "S": 5
+    "S": 3
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "custom_1.html", "custom_2.html", "", "tree_svg.html"];
 PAGES_TITLE = ["Home", "About the Report", "Topola Viewer", "Indexes", "Tree"];
@@ -51,9 +51,9 @@ CHART_BACKGROUND_SCHEME1 = 3;
 CHART_BACKGROUND_SCHEME2 = 4;
 STATISTICS_CHART_OPACITY = 70;
 GRAMPS_PREFERENCES = [];
-TRACK_LIST = ["12", "18"];
+TRACK_LIST = ["9", "21"];
 TRACKING_TAG="Tracking";
-EXTENDED_EVENTS_NOTE="<!-- ext note 2 -->\n<h4>Timeline Events</h4>\nThis table lists the following events for a person:<br>\n<ul><li>their individual events such as residence, occupation, census, news, military service... </li>\n<li>vital events (birth and death) for their family:</li>\n<ul><li>themselves</li> \n<li>their children</li>\n<li>their spouses</li>\n<li>their siblings</li>\n<li>their parents</li></ul>\n</ul>\n<p>Events are sorted by date. If no event is recorded for a family member it can\'t be shown.  If an event does not have a date, it is sorted at the top of the table.<p>\n<p>Events without a date won\'t show in \'limit to lifespan\'.</p>\n";
+EXTENDED_EVENTS_NOTE="<!-- timeline events note for Dynamic Web B report-->\n<h4>Extended Events</h4>\nThis table lists the following events for a person:<br>\n<ul><li>their individual events such as residence, occupation, census, news, military service... </li>\n<li>vital events (birth and death) for their family:</li>\n<ul><li>themselves</li> \n<li>their children</li>\n<li>their spouses</li>\n<li>their siblings</li>\n<li>their parents</li></ul>\n</ul>\n<p>Events are sorted by date. If no event is recorded for a family member it can\'t be shown.  This means for example that a parent without a birth won\'t show as a \'birth of parent\' event</p>\n<p> If an event does not have a date, it is sorted at the top of the table. Undated events won\'t show in \'limit to lifespan\'.</p>\n<p>Siblings includes full brothers and sisters (both birth parents the same), half-brothers and half-sisters (children with one common birth parent), and others. \nOthers includes siblings who are step, adopted, sponsored and so on.  The family details will tell you more. </p>\n<p>You can turn off the display of notes - it gives a better list view if there are a lot of vitals to show. The notes in an event row are notes about that event (eg if the event is a birth of parent, the note is about the parent).</p>\n<p>\'Other\' participants are other than the person already named in \'who\' and the person whose page it is.  For \'birth of child\' events it includes the other birth parent.<p>\n<p> Note for a \'birth of parent\' the \'who\' is the parent, so participants includes the birth parents of that parent.<p>\n<p>Checkbox ticks remain as ticked when you open a new person page.</p>\n<p>Events without a date won\'t show in \'limit to lifespan\'.</p>\n";
 GRAMPS_PREFERENCES['border-female-alive'] = "['#861f69', '#261111']";
 GRAMPS_PREFERENCES['border-female-dead'] = "['#000000', '#000000']";
 GRAMPS_PREFERENCES['border-male-alive'] = "['#1f4986', '#171d26']";

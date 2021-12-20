@@ -1,15 +1,18 @@
 // This file is generated
 
 P_type_0 = [
-"Building",
 "Country",
 "City",
-"State",
-"Farm",
+"Unknown",
 "Town",
 "Unknown",
+"State",
+"Farm",
+"Unknown",
+"Unknown",
 "City",
-"Town",
+"Unknown",
+"Village",
 "Town"
 ]
 Dwr.ScriptLoaded('dwr_db_P_type_0.js');
