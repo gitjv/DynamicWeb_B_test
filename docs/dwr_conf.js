@@ -73,7 +73,7 @@ FOOTER="";
 HEADER="";
 BRAND_TITLE="";
 COPYRIGHT="<p class=\'copyright\'>&copy; 2021 John Vitlin .</p>";
-INDEX_SURNAMES_TYPE=false;
+INDEX_SURNAMES_TYPE=true;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
 INDEX_SOURCES_TYPE=false;
