@@ -103,7 +103,7 @@ SOURCE_AUTHOR_IN_TITLE=false;
 TABBED_PANELS=true;
 INC_CHANGE_TIME=true;
 HIDE_GID=false;
-SHOW_OLD_EVENTS_TAB=false;
+SHOW_OLD_EVENTS_TAB=true;
 INC_PAGECONF = true;
 __ = {
 "label phrases": "translated phrases",
@@ -127,7 +127,7 @@ __ = {
 "Alternate Marriage": "Alternate Marriage",
 "Alternate Name": "Alternate Name",
 "An optional note that defines changes to labels in the report": "An optional note that defines changes to labels in the report",
-"Ancestors": "Ancestors",
+"Ancestors": "Parents & siblings",
 "Associations": "Associations",
 "Attribute": "Attribute",
 "Attributes": "Attributes",
@@ -161,7 +161,7 @@ __ = {
 "Death": "Death",
 "Death date - earliest first": "Death date - earliest first",
 "Death date - latest first": "Death date - latest first",
-"Descendants": "Descendants",
+"Descendants": "Spouses & children",
 "Description": "Description",
 "DynamicWeb_report#Help": "DynamicWeb_report#Help",
 "Enclosed By": "Enclosed By",
@@ -311,7 +311,7 @@ __ = {
 "WhWhether step siblings are strictly those with a \'stepchild\' relationship in family": "Whether step siblings are strictly those with a \'stepchild\' relationship in family",
 "Whether to use a special color for the persons that appear several times in the SVG tree": "Whether to use a special color for the persons that appear several times in the SVG tree",
 "Whether to show life span in person headings": "Whether to show life span in person headings",
-"Why me": "Why me",
+"Why me": "Why am I in this tree?",
 "Why Me note type": "Why Me note type",
 "Without name": "Without name",
 "Without surname": "Without surname",

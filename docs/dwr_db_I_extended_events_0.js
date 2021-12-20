@@ -27,7 +27,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": 6,
 "text": "",
 "type": "Birth of parent",
@@ -215,7 +215,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -263,7 +263,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -294,7 +294,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Adopted mother",
+"pc_reln": "adopting mother",
 "place": 6,
 "text": "",
 "type": "Birth of parent",
@@ -483,7 +483,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Adopted mother",
+"pc_reln": "adopting mother",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -562,7 +562,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -585,7 +585,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -685,7 +685,7 @@ I_extended_events_0 = [
 "birth mother"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": 4,
 "text": "",
 "type": "Birth of child",
@@ -708,7 +708,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Unknown son",
+"pc_reln": "unknown lineage",
 "place": -1,
 "text": "",
 "type": "Birth of child",
@@ -759,7 +759,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": 4,
 "text": "",
 "type": "Birth of child",
@@ -790,7 +790,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": 8,
 "text": "",
 "type": "Birth of child",
@@ -821,7 +821,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": 4,
 "text": "",
 "type": "Birth of child",
@@ -844,7 +844,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": 2,
 "text": "",
 "type": "Death of child",
@@ -892,7 +892,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -937,7 +937,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Unknown son",
+"pc_reln": "unknown lineage",
 "place": -1,
 "text": "",
 "type": "Death of child",
@@ -1015,7 +1015,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": 6,
 "text": "",
 "type": "Birth of child",
@@ -1061,7 +1061,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": -1,
 "text": "",
 "type": "Death of child",
@@ -1139,7 +1139,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": 6,
 "text": "",
 "type": "Birth of child",
@@ -1184,7 +1184,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": -1,
 "text": "",
 "type": "Death of child",
@@ -1209,7 +1209,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -1240,7 +1240,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": 6,
 "text": "",
 "type": "Birth of parent",
@@ -1428,7 +1428,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -1476,7 +1476,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -1507,7 +1507,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": 6,
 "text": "",
 "type": "Birth of parent",
@@ -1695,7 +1695,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -1844,7 +1844,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": 4,
 "text": "",
 "type": "Birth of child",
@@ -1875,7 +1875,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": 4,
 "text": "",
 "type": "Birth of child",
@@ -2000,7 +2000,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": -1,
 "text": "",
 "type": "Birth of child",
@@ -2049,7 +2049,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": 12,
 "text": "",
 "type": "Birth of parent",
@@ -2072,7 +2072,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -2122,7 +2122,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -2263,7 +2263,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -2382,7 +2382,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Stepchild son",
+"pc_reln": "step son",
 "place": -1,
 "text": "",
 "type": "Birth of child",
@@ -2441,7 +2441,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": 11,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
 "type": "Birth of child",
@@ -2478,7 +2478,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": 11,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note attached to the upper reference bit for the birth event attached to Deidre.\n</p>\n</div>\n</div>",
 "type": "Birth of child",
@@ -2501,7 +2501,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Stepchild son",
+"pc_reln": "step son",
 "place": -1,
 "text": "",
 "type": "Death of child",
@@ -2549,7 +2549,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": 12,
 "text": "",
 "type": "Birth of parent",
@@ -2572,7 +2572,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -2622,7 +2622,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -2807,7 +2807,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -2901,7 +2901,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": -1,
 "text": "",
 "type": "Birth of child",
@@ -2961,7 +2961,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": 11,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
 "type": "Birth of child",
@@ -2998,7 +2998,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth daughter",
+"pc_reln": "daughter",
 "place": 11,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note attached to the upper reference bit for the birth event attached to Deidre.\n</p>\n</div>\n</div>",
 "type": "Birth of child",
@@ -3021,7 +3021,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": -1,
 "text": "",
 "type": "Death of child",
@@ -3068,7 +3068,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": 12,
 "text": "",
 "type": "Birth of parent",
@@ -3091,7 +3091,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Stepchild mother",
+"pc_reln": "step mother",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -3140,7 +3140,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Stepchild mother",
+"pc_reln": "step mother",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -3259,7 +3259,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -3298,7 +3298,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": 11,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nFred Fernando and Deidre are twins.  Fred Fernando is the first born.\n</p>\n</div>\n<hr style=\"margin-top:5px; margin-bottom:5px\" />\n<i class=\"NoteType\">\nEvent Reference Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note in the reference bit of an event where the event is attached to Fred\n</p>\n</div>\n</div>",
 "type": "Birth of parent",
@@ -3362,7 +3362,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Adopted son",
+"pc_reln": "adopted son",
 "place": 8,
 "text": "",
 "type": "Birth of child",
@@ -3385,7 +3385,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Adopted son",
+"pc_reln": "adopted son",
 "place": 2,
 "text": "",
 "type": "Death of child",
@@ -3443,7 +3443,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Unknown father",
+"pc_reln": "unknown lineage",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -3474,7 +3474,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Unknown mother",
+"pc_reln": "unknown lineage",
 "place": 6,
 "text": "",
 "type": "Birth of parent",
@@ -3662,7 +3662,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Unknown mother",
+"pc_reln": "unknown lineage",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -3762,7 +3762,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": -1,
 "text": "",
 "type": "Birth of child",
@@ -3787,7 +3787,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNobody knows when Old Man Rabbit was born; it seems like he has been on the farm forever.\n</p>\n</div>\n</div>",
 "type": "Birth of parent",
@@ -3810,7 +3810,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -3894,7 +3894,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Unknown son",
+"pc_reln": "unknown lineage",
 "place": -1,
 "text": "",
 "type": "Birth of child",
@@ -3925,7 +3925,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": 8,
 "text": "",
 "type": "Birth of child",
@@ -3948,7 +3948,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth son",
+"pc_reln": "son",
 "place": 2,
 "text": "",
 "type": "Death of child",
@@ -4044,7 +4044,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Unknown son",
+"pc_reln": "unknown lineage",
 "place": -1,
 "text": "",
 "type": "Death of child",
@@ -4077,7 +4077,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Sponsored father",
+"pc_reln": "sponsoring father",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -4108,7 +4108,7 @@ I_extended_events_0 = [
 "birth father"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": 6,
 "text": "",
 "type": "Birth of parent",
@@ -4295,7 +4295,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Death of parent",
@@ -4343,7 +4343,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth father",
+"pc_reln": "father",
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nNobody knows when Old Man Rabbit was born; it seems like he has been on the farm forever.\n</p>\n</div>\n</div>",
 "type": "Birth of parent",
@@ -4366,7 +4366,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Birth mother",
+"pc_reln": "mother",
 "place": -1,
 "text": "",
 "type": "Birth of parent",
@@ -4422,7 +4422,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Foster daughter",
+"pc_reln": "foster daughter",
 "place": -1,
 "text": "",
 "type": "Birth of child",
@@ -4447,7 +4447,7 @@ I_extended_events_0 = [
 "Primary"
 ]
 ],
-"pc_reln": "Foster daughter",
+"pc_reln": "foster daughter",
 "place": -1,
 "text": "",
 "type": "Birth of child",
