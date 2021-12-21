@@ -1,9 +1,9 @@
 # DynamicWeb_B_test
 Demo tree and zip for modified version of the Gramps DynamicWeb report
 
-_Dynamic Web Report B_ is an enhancement of the original Gramps Dynamic Web Report
+_Dynamic Web Report B_ is an enhancement of the original Gramps Dynamic Web Report.  (This is an update of my earlier version, but it has the same name.)
 
-The document __Dynamic Web Report B.pdf__ describes what it does. In short it has:
+The document __Dynamic Web B Report.pdf__ describes what it does. In short it has:
 
 **Timeline Events**
 * The event tab for a person is a timeline with their own events, plus vital events (births and deaths) of their siblings, parents, children and spouses. Tickboxes let you filter out various events.
@@ -25,3 +25,4 @@ The document __Dynamic Web Report B.pdf__ describes what it does. In short it ha
 There are some other changes as well, described in the attached pdf.
 
 The zip file can be downloaded, then extracted and dropped into your plugins folder.
+* (With Windows, my plugins are at C:\Users\xxx\AppData\Roaming\gramps\gramps51\plugins)
